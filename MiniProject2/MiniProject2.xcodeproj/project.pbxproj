@@ -18,6 +18,8 @@
 		BD5BAE8026B3235000CE3A92 /* MiniProject2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE7F26B3235000CE3A92 /* MiniProject2UITests.swift */; };
 		BD5BAE8E26B323BA00CE3A92 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE8D26B323BA00CE3A92 /* ViewController2.swift */; };
 		BD5BAE9026B323C600CE3A92 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE8F26B323C600CE3A92 /* ViewController3.swift */; };
+		BD5BAE9226B42C6C00CE3A92 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE9126B42C6C00CE3A92 /* ViewController4.swift */; };
+		BD5BAE9426B42FE900CE3A92 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE9326B42FE900CE3A92 /* ViewController5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +57,8 @@
 		BD5BAE8126B3235000CE3A92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD5BAE8D26B323BA00CE3A92 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		BD5BAE8F26B323C600CE3A92 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		BD5BAE9126B42C6C00CE3A92 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		BD5BAE9326B42FE900CE3A92 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +89,8 @@
 		BD5BAE4E26B3234E00CE3A92 = {
 			isa = PBXGroup;
 			children = (
+				BD5BAE9326B42FE900CE3A92 /* ViewController5.swift */,
+				BD5BAE9126B42C6C00CE3A92 /* ViewController4.swift */,
 				BD5BAE8F26B323C600CE3A92 /* ViewController3.swift */,
 				BD5BAE8D26B323BA00CE3A92 /* ViewController2.swift */,
 				BD5BAE5926B3234E00CE3A92 /* MiniProject2 */,
@@ -268,8 +274,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD5BAE8E26B323BA00CE3A92 /* ViewController2.swift in Sources */,
+				BD5BAE9226B42C6C00CE3A92 /* ViewController4.swift in Sources */,
 				BD5BAE5F26B3234E00CE3A92 /* ViewController.swift in Sources */,
 				BD5BAE9026B323C600CE3A92 /* ViewController3.swift in Sources */,
+				BD5BAE9426B42FE900CE3A92 /* ViewController5.swift in Sources */,
 				BD5BAE5B26B3234E00CE3A92 /* AppDelegate.swift in Sources */,
 				BD5BAE5D26B3234E00CE3A92 /* SceneDelegate.swift in Sources */,
 				BD5BAE6526B3234E00CE3A92 /* MiniProject2.xcdatamodeld in Sources */,
