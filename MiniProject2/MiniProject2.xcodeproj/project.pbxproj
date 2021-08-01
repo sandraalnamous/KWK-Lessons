@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD4272E326B72A24009A513D /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4272E226B72A24009A513D /* ViewController3.swift */; };
 		BD5BAE5B26B3234E00CE3A92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE5A26B3234E00CE3A92 /* AppDelegate.swift */; };
 		BD5BAE5D26B3234E00CE3A92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE5C26B3234E00CE3A92 /* SceneDelegate.swift */; };
 		BD5BAE5F26B3234E00CE3A92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE5E26B3234E00CE3A92 /* ViewController.swift */; };
@@ -17,7 +18,6 @@
 		BD5BAE7526B3235000CE3A92 /* MiniProject2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE7426B3235000CE3A92 /* MiniProject2Tests.swift */; };
 		BD5BAE8026B3235000CE3A92 /* MiniProject2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE7F26B3235000CE3A92 /* MiniProject2UITests.swift */; };
 		BD5BAE8E26B323BA00CE3A92 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE8D26B323BA00CE3A92 /* ViewController2.swift */; };
-		BD5BAE9026B323C600CE3A92 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE8F26B323C600CE3A92 /* ViewController3.swift */; };
 		BD5BAE9226B42C6C00CE3A92 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE9126B42C6C00CE3A92 /* ViewController4.swift */; };
 		BD5BAE9426B42FE900CE3A92 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BAE9326B42FE900CE3A92 /* ViewController5.swift */; };
 /* End PBXBuildFile section */
@@ -40,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BD4272E226B72A24009A513D /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 		BD5BAE5726B3234E00CE3A92 /* MiniProject2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiniProject2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD5BAE5A26B3234E00CE3A92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD5BAE5C26B3234E00CE3A92 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,7 +57,6 @@
 		BD5BAE7F26B3235000CE3A92 /* MiniProject2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniProject2UITests.swift; sourceTree = "<group>"; };
 		BD5BAE8126B3235000CE3A92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD5BAE8D26B323BA00CE3A92 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
-		BD5BAE8F26B323C600CE3A92 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 		BD5BAE9126B42C6C00CE3A92 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
 		BD5BAE9326B42FE900CE3A92 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,9 +89,9 @@
 		BD5BAE4E26B3234E00CE3A92 = {
 			isa = PBXGroup;
 			children = (
+				BD4272E226B72A24009A513D /* ViewController3.swift */,
 				BD5BAE9326B42FE900CE3A92 /* ViewController5.swift */,
 				BD5BAE9126B42C6C00CE3A92 /* ViewController4.swift */,
-				BD5BAE8F26B323C600CE3A92 /* ViewController3.swift */,
 				BD5BAE8D26B323BA00CE3A92 /* ViewController2.swift */,
 				BD5BAE5926B3234E00CE3A92 /* MiniProject2 */,
 				BD5BAE7326B3235000CE3A92 /* MiniProject2Tests */,
@@ -275,8 +275,8 @@
 			files = (
 				BD5BAE8E26B323BA00CE3A92 /* ViewController2.swift in Sources */,
 				BD5BAE9226B42C6C00CE3A92 /* ViewController4.swift in Sources */,
+				BD4272E326B72A24009A513D /* ViewController3.swift in Sources */,
 				BD5BAE5F26B3234E00CE3A92 /* ViewController.swift in Sources */,
-				BD5BAE9026B323C600CE3A92 /* ViewController3.swift in Sources */,
 				BD5BAE9426B42FE900CE3A92 /* ViewController5.swift in Sources */,
 				BD5BAE5B26B3234E00CE3A92 /* AppDelegate.swift in Sources */,
 				BD5BAE5D26B3234E00CE3A92 /* SceneDelegate.swift in Sources */,

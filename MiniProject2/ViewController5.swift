@@ -8,7 +8,9 @@
 import UIKit
 
 class ViewController5: UIViewController {
-
+    @IBOutlet weak var fantastic: UILabel!
+    @IBOutlet weak var thanks: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

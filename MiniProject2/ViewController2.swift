@@ -8,6 +8,24 @@
 import UIKit
 
 class ViewController2: UIViewController {
+    @IBOutlet weak var startBread: UILabel!
+    @IBOutlet weak var pick2: UILabel!
+    @IBOutlet weak var baguette: UILabel!
+    @IBOutlet weak var normalBread: UILabel!
+    @IBOutlet weak var focaccia: UILabel!
+    @IBOutlet weak var cheesCake: UILabel!
+    @IBOutlet weak var heavenly: UILabel!
+    @IBAction func frenchBread(_ sender: Any) {
+    }
+    @IBAction func sourDough(_ sender: Any) {
+    }
+    @IBAction func italianBread(_ sender: UIButton) {
+    }
+    @IBAction func brownBread(_ sender: UIButton) {
+    }
+    @IBAction func garlicBread(_ sender: UIButton) {
+    }
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
