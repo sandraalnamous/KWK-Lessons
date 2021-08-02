@@ -16,6 +16,7 @@
 		BD42730B26B83273009A513D /* toDoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42730A26B83273009A513D /* toDoListTests.swift */; };
 		BD42731626B83273009A513D /* toDoListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42731526B83273009A513D /* toDoListUITests.swift */; };
 		BD42732426B837F8009A513D /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42732326B837F8009A513D /* ToDoTableViewController.swift */; };
+		BD42732626B83AA9009A513D /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42732526B83AA9009A513D /* ToDo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		BD42731526B83273009A513D /* toDoListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toDoListUITests.swift; sourceTree = "<group>"; };
 		BD42731726B83273009A513D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD42732326B837F8009A513D /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
+		BD42732526B83AA9009A513D /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		BD4272E426B83271009A513D = {
 			isa = PBXGroup;
 			children = (
+				BD42732526B83AA9009A513D /* ToDo.swift */,
 				BD42732326B837F8009A513D /* ToDoTableViewController.swift */,
 				BD4272EF26B83271009A513D /* toDoList */,
 				BD42730926B83273009A513D /* toDoListTests */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD4272F126B83271009A513D /* AppDelegate.swift in Sources */,
+				BD42732626B83AA9009A513D /* ToDo.swift in Sources */,
 				BD42732426B837F8009A513D /* ToDoTableViewController.swift in Sources */,
 				BD4272F326B83271009A513D /* SceneDelegate.swift in Sources */,
 				BD4272FB26B83271009A513D /* toDoList.xcdatamodeld in Sources */,
